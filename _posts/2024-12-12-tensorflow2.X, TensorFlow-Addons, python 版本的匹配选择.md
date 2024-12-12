@@ -8,6 +8,8 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - blog
+    - 解决方案日志
+    - 环境版本匹配
 ---
 
 因为众所周知的原因tensorflow已经开始逐渐退出了历史舞台，但是一些古早的项目还需要用到tf，经常配环境配得一地鸡毛，所以来记录一下：）

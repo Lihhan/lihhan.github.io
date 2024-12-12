@@ -8,6 +8,7 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - blog
+    - 配环境
 ---
 
 没有root权限并且服务器一会儿抽风有显示器转发一会儿又没有，看着一堆教程中动不动出现的sudo只想砸键盘。。struggle了好几天最后终于解决了，所以来这里update一下经验。

@@ -14,14 +14,14 @@ tags:
 
 1、Tensorflow2 与 python版本匹配
 
-![alt text](image.png)
+![](img/image.png)
 
-![alt text](image-1.png)
+![](img/image-1.png)
 
 2、TensorFlow Addons 与 TF2.X，python版本匹配
 
-![alt text](image-2.png)
+![](img/image-2.png)
 
 3、Tensorflow 与 Keras 版本匹配
 
-![alt text](image-3.png)
+![](img/image-3.png)

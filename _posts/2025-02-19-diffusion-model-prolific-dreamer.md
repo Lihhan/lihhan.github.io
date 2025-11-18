@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diffusion Model 教程 - Prolific Dreamer: 高质量3D生成"
-subtitle: "从SDE到DreamFusion的完整推导"
+subtitle: "Diffusion入门: 从SDE到DreamFusion的完整推导"
 date: 2025-02-19
 author: Lihan
 tags: [Diffusion, Deep Learning, 教程, LaTeX]

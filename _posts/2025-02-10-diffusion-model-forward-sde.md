@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diffusion Model 教程 - Forward SDE: 从离散到连续"
-subtitle: "从SDE到DreamFusion的完整推导"
+subtitle: "Diffusion入门: 从SDE到DreamFusion的完整推导"
 date: 2025-02-10
 author: Lihan
 tags: [Diffusion, Deep Learning, 教程, LaTeX]

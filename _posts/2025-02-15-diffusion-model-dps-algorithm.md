@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diffusion Model 教程 - DPS Algorithm: 数据后验采样"
-subtitle: "从SDE到DreamFusion的完整推导"
+subtitle: "Diffusion入门: 从SDE到DreamFusion的完整推导"
 date: 2025-02-15
 author: Lihan
 tags: [Diffusion, Deep Learning, 教程, LaTeX]

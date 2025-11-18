@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diffusion Model 教程 - DDIM: 确定性采样"
-subtitle: "从SDE到DreamFusion的完整推导"
+subtitle: "Diffusion入门: 从SDE到DreamFusion的完整推导"
 date: 2025-02-16
 author: Lihan
 tags: [Diffusion, Deep Learning, 教程, LaTeX]
